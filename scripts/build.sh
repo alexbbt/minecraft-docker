@@ -1,1 +1,1 @@
-docker build -t iuga/minecraft .
+docker build -t alexbbt/minecraft .
