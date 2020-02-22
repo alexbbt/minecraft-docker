@@ -5,7 +5,7 @@ MAINTAINER Alexander Bell-Towne "code@bell-towne.com"
 # Environment variables
 
 ENV EULA=TRUE
-ENV VERSION=1.15.1
+ENV VERSION=1.15.2
 ENV MODE=survival
 ENV MOTD="Welcome to the Bell-Towne Minecraft server"
 # ENV PVP=false

@@ -4,6 +4,6 @@ docker run -d \
     -p 25565:25565 \
     --name minecraft \
     --restart=always \
-    -v /shared/minecraft/main:/data \
+    -v /Users/alexbbt/minecraft/worlds/main:/data \
     \
     alexbbt/minecraft
